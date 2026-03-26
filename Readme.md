@@ -14,7 +14,9 @@ If only thermal noise is considered, the sensitivity of a PIN photodiode-based r
 
 <img width="1126" height="718" alt="image" src="https://github.com/user-attachments/assets/22298a91-302d-41e4-b254-86c9b8ec704e" />
 
----
+## Block Diagram
+<img width="769" height="395" alt="image" src="https://github.com/user-attachments/assets/1dadd88b-17d2-4e83-bfc4-de43b66b847a" />
+
 
 ## Calculations
 Receiver specifications:
